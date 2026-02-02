@@ -20,7 +20,7 @@ This tool is part of the astrophotography pipeline. For comprehensive documentat
 
 - **[Pipeline Overview](https://github.com/jewzaam/ap-base/blob/main/docs/index.md)** - Full pipeline documentation
 - **[Workflow Guide](https://github.com/jewzaam/ap-base/blob/main/docs/workflow.md)** - Detailed workflow with diagrams
-- **[ap-common Reference](https://github.com/jewzaam/ap-base/blob/main/docs/tools/ap-common.md)** - API reference for this tool
+- **[ap-move-raw-light-to-blink Reference](https://github.com/jewzaam/ap-base/blob/main/docs/tools/ap-move-raw-light-to-blink.md)** - API reference for this tool
 
 ## Usage
 
